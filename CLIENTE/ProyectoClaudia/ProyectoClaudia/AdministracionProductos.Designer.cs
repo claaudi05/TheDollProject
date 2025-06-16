@@ -223,6 +223,7 @@
             this.textBuscadorProductos.Size = new System.Drawing.Size(449, 33);
             this.textBuscadorProductos.TabIndex = 18;
             this.textBuscadorProductos.Text = "Buscador";
+            this.textBuscadorProductos.Click += new System.EventHandler(this.textBox1_Click);
             // 
             // listBoxProductos
             // 

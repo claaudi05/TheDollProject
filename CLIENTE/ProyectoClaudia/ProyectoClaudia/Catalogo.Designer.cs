@@ -75,6 +75,7 @@
             this.textBuscador.Size = new System.Drawing.Size(446, 33);
             this.textBuscador.TabIndex = 28;
             this.textBuscador.Text = "Buscador";
+            this.textBuscador.Click += new System.EventHandler(this.textBox1_Click);
             // 
             // flowLayoutPanelMarca
             // 

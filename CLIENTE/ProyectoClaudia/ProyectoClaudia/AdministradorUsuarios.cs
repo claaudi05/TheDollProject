@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 using ProyectoClaudia.Clases;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace ProyectoClaudia
 {
@@ -19,6 +20,18 @@ namespace ProyectoClaudia
         public AdministradorUsuarios()
         {
             InitializeComponent();
+        }
+
+        private bool ValidarContraseña(string contraseña)
+        {
+            if (string.IsNullOrWhiteSpace(contraseña)) return false;
+
+            bool tieneLongitud = contraseña.Length >= 8;
+            bool tieneMayuscula = contraseña.Any(char.IsUpper);
+            bool tieneMinuscula = contraseña.Any(char.IsLower);
+            bool tieneEspecial = contraseña.Any(ch => !char.IsLetterOrDigit(ch));
+
+            return tieneLongitud && tieneMayuscula && tieneMinuscula && tieneEspecial;
         }
 
         private List<Usuarios> usuariosCargados;
@@ -42,6 +55,12 @@ namespace ProyectoClaudia
             }
 
             var usuarioSeleccionado = esModificacion ? usuariosCargados[index] : null;
+
+            if (!ValidarContraseña(textContraseña.Text.Trim()))
+            {
+                MessageBox.Show("La contraseña debe tener al menos 8 caracteres, incluir mayúsculas, minúsculas y un carácter especial.");
+                return;
+            }
 
             // Cifrar la contraseña solo si se proporciona
             var rsa = new RsaEncryptor();
@@ -264,7 +283,7 @@ namespace ProyectoClaudia
                 var usuarioAEliminar = usuariosCargados[index];
 
                 DialogResult confirm = MessageBox.Show(
-                    $"¿Estás seguro de que quieres eliminar el producto '{usuarioAEliminar.nombre}'?",
+                    $"¿Estás seguro de que quieres eliminar el usuario '{usuarioAEliminar.nombre}'?",
                     "Confirmar eliminación",
                     MessageBoxButtons.YesNo,
                     MessageBoxIcon.Warning);
@@ -281,7 +300,7 @@ namespace ProyectoClaudia
 
                         if (response.IsSuccessStatusCode)
                         {
-                            MessageBox.Show("Producto eliminado correctamente.");
+                            MessageBox.Show("Usuario eliminado correctamente.");
                             CargarUsuarios();
 
                             //LIMPIAR LOS COMPONENTES
@@ -322,6 +341,17 @@ namespace ProyectoClaudia
                 MessageBox.Show("No tienes permisos para acceder a la gestión de productos.");
             }
         }
+
+        private void textBoxNombre_Click(object sender, EventArgs e)
+        {
+            textBuscadorNombre.Clear();
+        }
+
+        private void textBoxCorreo_Click(object sender, EventArgs e)
+        {
+            textBuscadorCorreo.Clear();
+        }
+
     }
-    
+
 }

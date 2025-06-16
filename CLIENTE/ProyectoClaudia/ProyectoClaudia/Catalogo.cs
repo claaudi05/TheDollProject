@@ -12,6 +12,7 @@ using System.Windows.Forms;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using ProyectoClaudia.Clases;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace ProyectoClaudia
 {
@@ -70,7 +71,7 @@ namespace ProyectoClaudia
             {
                 int j = i;
 
-                Button btn = new Button();
+                System.Windows.Forms.Button btn = new System.Windows.Forms.Button();
                 btn.Width = 75;
                 btn.Height = 75;
                 btn.BackgroundImage = imagenes[i];
@@ -208,7 +209,7 @@ namespace ProyectoClaudia
                     Height = 15,
                     Left = 10,
                     Top = panelProducto.Height - 20,
-                    Font = new Font("Comic Sans MS", 7),
+                    Font = new Font("Comic Sans MS", 7, FontStyle.Bold),
                     ForeColor = Color.Black
                 };
 
@@ -225,11 +226,12 @@ namespace ProyectoClaudia
                 {
                     lblPrecio.Text = $"{producto.precio}€";
                     lblPrecio.Top = panelProducto.Height - 30;
+                    lblPrecio.Font = new Font("Comic Sans MS", 7, FontStyle.Bold);
                     panelProducto.Controls.Add(lblPrecio);
                 }
 
                 // Botón carrito
-                Button btnCesta = new Button
+                System.Windows.Forms.Button btnCesta = new System.Windows.Forms.Button
                 {
                     Size = new Size(24, 24),
                     BackgroundImage = Properties.Resources.carrito1,
@@ -241,7 +243,7 @@ namespace ProyectoClaudia
                 btnCesta.Location = new Point(panelProducto.Width - 60, lblPrecio.Top - 2);
 
                 // Botón deseo
-                Button btnDeseo = new Button
+                System.Windows.Forms.Button btnDeseo = new System.Windows.Forms.Button
                 {
                     Size = new Size(24, 24),
                     BackgroundImage = Properties.Resources.listaDeseos,
@@ -406,5 +408,11 @@ namespace ProyectoClaudia
                 new ListaDeseos().Show();
             }
         }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+            textBuscador.Clear();
+        }
+
     }
 }

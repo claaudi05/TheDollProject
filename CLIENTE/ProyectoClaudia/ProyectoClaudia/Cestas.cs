@@ -429,5 +429,11 @@ namespace ProyectoClaudia
                 this.Hide();
             new Compra().Show();
         }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+            textBuscador.Clear();
+        }
+
     }
 }

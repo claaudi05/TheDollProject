@@ -31,10 +31,28 @@ namespace ProyectoClaudia
             new InicioSesion().Show(); 
         }
 
+        private bool ValidarContraseña(string contraseña)
+        {
+            if (string.IsNullOrWhiteSpace(contraseña)) return false;
+
+            bool tieneLongitud = contraseña.Length >= 8;
+            bool tieneMayuscula = contraseña.Any(char.IsUpper);
+            bool tieneMinuscula = contraseña.Any(char.IsLower);
+            bool tieneEspecial = contraseña.Any(ch => !char.IsLetterOrDigit(ch));
+
+            return tieneLongitud && tieneMayuscula && tieneMinuscula && tieneEspecial;
+        }
+
         private void buttonGuardar_Click(object sender, EventArgs e)
         {
             string nueva = textNuevaContraseña.Text.Trim();
             string repetir = textRepetirContraseña.Text.Trim();
+
+            if (!ValidarContraseña(nueva))
+            {
+                MessageBox.Show("La contraseña debe tener al menos 8 caracteres, incluir mayúsculas, minúsculas y un carácter especial.");
+                return;
+            }
 
             if (nueva != repetir)
             {
@@ -48,7 +66,7 @@ namespace ProyectoClaudia
 
             using (HttpClient client = new HttpClient())
             {
-                var content = new StringContent(nueva, Encoding.UTF8, "text/plain");
+                var content = new StringContent(contraseñaCifrada, Encoding.UTF8, "text/plain");
 
                 var response = client.PutAsync($"http://localhost:8082/usuarios/cambiarContraseña/{Sesion.UsuarioActual.id}", content).Result;
 
@@ -56,6 +74,7 @@ namespace ProyectoClaudia
                 {
                     MessageBox.Show("Contraseña cambiada correctamente.");
                     this.Hide();
+                    new Perfil().Show();
                 }
                 else
                 {

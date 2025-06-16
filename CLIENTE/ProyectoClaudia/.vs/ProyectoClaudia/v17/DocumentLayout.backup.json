@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|c:\\users\\gccla\\onedrive\\escritorio\\proyectoclaudia\\proyectoclaudia\\clases\\rsaencryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\clases\\rsaencryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\cestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\cestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\listadeseos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\listadeseos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|c:\\users\\gccla\\onedrive\\escritorio\\proyectoclaudia\\proyectoclaudia\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\administracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,20 +31,68 @@
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\administracionproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\administradorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\administradorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\administradorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\administradorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\listadeseos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\listadeseos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\listadeseos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\listadeseos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\detallespedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\detallespedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\detallespedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\detallespedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\descuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\descuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\administradorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\administradorusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\clases\\rsaencryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\clases\\rsaencryptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\cestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\cestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\cestas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,44 +103,12 @@
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\clases\\cesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\catalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\iniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\cambiarcontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\registrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\clases\\detallespedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\clases\\detallespedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\listadeseos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\listadeseos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\descuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\descuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\detallespedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\detallespedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\clases\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,16 +127,8 @@
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\detallespedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\detallespedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\administracionproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|solutionrelative:proyectoclaudia\\administracionproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE2240C-1094-4FC4-9DCC-F3E9D7E97D08}|ProyectoClaudia\\ProyectoClaudia.csproj|C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\proyectoclaudia\\administradorusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -150,11 +146,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 287,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "AdministracionProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministracionProductos.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\AdministracionProductos.cs",
@@ -162,11 +158,12 @@
               "RelativeToolTip": "ProyectoClaudia\\AdministracionProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T17:40:43.629Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "Registrarse.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Registrarse.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Registrarse.cs",
@@ -174,11 +171,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Registrarse.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T16:02:24.821Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "AdministradorUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministradorUsuarios.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\AdministradorUsuarios.cs",
@@ -186,11 +184,12 @@
               "RelativeToolTip": "ProyectoClaudia\\AdministradorUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T17:41:16.676Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Catalogo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Catalogo.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Catalogo.cs",
@@ -198,11 +197,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Catalogo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T16:11:47.601Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "Cestas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Cestas.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Cestas.cs",
@@ -210,11 +210,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Cestas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T16:56:44.629Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Perfil.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Perfil.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Perfil.cs",
@@ -222,11 +223,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Perfil.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T08:17:51.256Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Descuento.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Descuento.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Descuento.cs",
@@ -234,11 +236,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Descuento.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T17:43:02.535Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Pedidos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Pedidos.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Pedidos.cs",
@@ -246,11 +249,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Pedidos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T08:32:17.94Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ListaDeseos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\ListaDeseos.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\ListaDeseos.cs",
@@ -258,11 +262,12 @@
               "RelativeToolTip": "ProyectoClaudia\\ListaDeseos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T17:06:49.899Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "CambiarContrase\u00F1a.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\CambiarContrase\u00F1a.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\CambiarContrase\u00F1a.cs",
@@ -270,11 +275,12 @@
               "RelativeToolTip": "ProyectoClaudia\\CambiarContrase\u00F1a.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T15:14:52.976Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "Compra.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Compra.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Compra.cs",
@@ -282,11 +288,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Compra.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T15:38:18.249Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 15,
               "Title": "DetallesPedidos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\DetallesPedidos.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\DetallesPedidos.cs",
@@ -294,11 +301,12 @@
               "RelativeToolTip": "ProyectoClaudia\\DetallesPedidos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T15:31:06.192Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "InicioSesion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\InicioSesion.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\InicioSesion.cs",
@@ -306,7 +314,8 @@
               "RelativeToolTip": "ProyectoClaudia\\InicioSesion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T10:16:27.005Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Bookmark",
@@ -314,43 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Cesta.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\Cesta.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\Clases\\Cesta.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\Cesta.cs",
-              "RelativeToolTip": "ProyectoClaudia\\Clases\\Cesta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T17:53:20.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CambiarContrase\u00F1a.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\CambiarContrase\u00F1a.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\CambiarContrase\u00F1a.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\CambiarContrase\u00F1a.cs",
-              "RelativeToolTip": "ProyectoClaudia\\CambiarContrase\u00F1a.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T16:43:23.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AdministradorUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministradorUsuarios.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\AdministradorUsuarios.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministradorUsuarios.cs",
-              "RelativeToolTip": "ProyectoClaudia\\AdministradorUsuarios.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAgwF4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T14:16:37.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "DetallesPedido.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\DetallesPedido.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Clases\\DetallesPedido.cs",
@@ -362,31 +335,20 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CambiarContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\CambiarContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\CambiarContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\CambiarContrase\u00F1a.cs",
+              "RelativeToolTip": "ProyectoClaudia\\CambiarContrase\u00F1a.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:43:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "Compra.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Compra.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\Compra.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Compra.cs",
-              "RelativeToolTip": "ProyectoClaudia\\Compra.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAADwvz8AAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T15:40:42.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Cestas.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Cestas.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\Cestas.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Cestas.cs",
-              "RelativeToolTip": "ProyectoClaudia\\Cestas.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAJ4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T14:12:29.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\Pedido.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Clases\\Pedido.cs",
@@ -398,92 +360,162 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Catalogo.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Catalogo.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\Catalogo.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Catalogo.cs",
-              "RelativeToolTip": "ProyectoClaudia\\Catalogo.cs",
-              "ViewState": "AgIAABIBAAAAAAAAAAAgwEEBAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "DetallesPedidos.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\DetallesPedidos.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\DetallesPedidos.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\DetallesPedidos.cs",
+              "RelativeToolTip": "ProyectoClaudia\\DetallesPedidos.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T16:48:12.975Z"
+              "WhenOpened": "2025-05-29T16:40:31.818Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "AdministracionProductos.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministracionProductos.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\AdministracionProductos.cs",
               "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministracionProductos.cs",
               "RelativeToolTip": "ProyectoClaudia\\AdministracionProductos.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAWwF4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAqwH0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T17:29:12.252Z"
+              "WhenOpened": "2025-06-01T17:29:12.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Registrarse.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Registrarse.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\Registrarse.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Registrarse.cs",
-              "RelativeToolTip": "ProyectoClaudia\\Registrarse.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Pedidos.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Pedidos.cs",
+              "RelativeToolTip": "ProyectoClaudia\\Pedidos.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAawIIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:29:41.494Z"
+              "WhenOpened": "2025-05-26T15:29:27.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
+              "Title": "Catalogo.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Catalogo.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\Catalogo.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Catalogo.cs",
+              "RelativeToolTip": "ProyectoClaudia\\Catalogo.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwOQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:48:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListaDeseos.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\ListaDeseos.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\ListaDeseos.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\ListaDeseos.cs",
+              "RelativeToolTip": "ProyectoClaudia\\ListaDeseos.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAYwIMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T17:21:55.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cesta.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\Cesta.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\Clases\\Cesta.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\Cesta.cs",
+              "RelativeToolTip": "ProyectoClaudia\\Clases\\Cesta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T17:53:20.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InicioSesion.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\InicioSesion.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\InicioSesion.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\InicioSesion.cs",
+              "RelativeToolTip": "ProyectoClaudia\\InicioSesion.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwv1cAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:29:08.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdministradorUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministradorUsuarios.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\AdministradorUsuarios.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministradorUsuarios.cs",
+              "RelativeToolTip": "ProyectoClaudia\\AdministradorUsuarios.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:16:37.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "RsaEncryptor.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\RsaEncryptor.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Clases\\RsaEncryptor.cs",
               "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\RsaEncryptor.cs",
               "RelativeToolTip": "ProyectoClaudia\\Clases\\RsaEncryptor.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAswG0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:55:44.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InicioSesion.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\InicioSesion.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\InicioSesion.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\InicioSesion.cs",
-              "RelativeToolTip": "ProyectoClaudia\\InicioSesion.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAArwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:29:08.056Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Pedidos.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Pedidos.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\Pedidos.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Pedidos.cs",
-              "RelativeToolTip": "ProyectoClaudia\\Pedidos.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAYwKcAAAAAAAAAAAAAAA==",
+              "Title": "Registrarse.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Registrarse.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\Registrarse.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Registrarse.cs",
+              "RelativeToolTip": "ProyectoClaudia\\Registrarse.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwD8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:29:27.273Z"
+              "WhenOpened": "2025-05-26T15:29:41.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ListaDeseos.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\ListaDeseos.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\ListaDeseos.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\ListaDeseos.cs",
-              "RelativeToolTip": "ProyectoClaudia\\ListaDeseos.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFUAAAAhAAAAAAAAAA==",
+              "Title": "Cestas.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Cestas.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\Cestas.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Cestas.cs",
+              "RelativeToolTip": "ProyectoClaudia\\Cestas.cs",
+              "ViewState": "AgIAAJcBAAAAdC0HN3sfwLIBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T17:21:55.141Z"
+              "WhenOpened": "2025-05-24T14:12:29.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Compra.cs",
+              "RelativeDocumentMoniker": "ProyectoClaudia\\Compra.cs",
+              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Compra.cs",
+              "RelativeToolTip": "ProyectoClaudia\\Compra.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvz8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:40:42.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Descuento.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Descuento.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Descuento.cs",
@@ -491,11 +523,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Descuento.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwJEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T16:00:31.928Z"
+              "WhenOpened": "2025-05-23T16:00:31.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Productos.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\Productos.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Clases\\Productos.cs",
@@ -507,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Usuarios.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Clases\\Usuarios.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\Clases\\Usuarios.cs",
@@ -519,18 +552,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "DetallesPedidos.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\DetallesPedidos.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\DetallesPedidos.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\DetallesPedidos.cs",
-              "RelativeToolTip": "ProyectoClaudia\\DetallesPedidos.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T16:40:31.818Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Perfil.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\Perfil.cs",
@@ -539,23 +560,12 @@
               "RelativeToolTip": "ProyectoClaudia\\Perfil.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T16:45:59.46Z"
+              "WhenOpened": "2025-06-01T16:45:59.46Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "AdministracionProductos.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministracionProductos.Designer.cs",
-              "RelativeDocumentMoniker": "ProyectoClaudia\\AdministracionProductos.Designer.cs",
-              "ToolTip": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministracionProductos.Designer.cs",
-              "RelativeToolTip": "ProyectoClaudia\\AdministracionProductos.Designer.cs",
-              "ViewState": "AgIAAOsAAAAAAAAAAADwv/QAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:03:28.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
               "Title": "AdministradorUsuarios.Designer.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\AdministradorUsuarios.Designer.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\AdministradorUsuarios.Designer.cs",
@@ -563,11 +573,12 @@
               "RelativeToolTip": "ProyectoClaudia\\AdministradorUsuarios.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T15:59:44.681Z"
+              "WhenOpened": "2025-05-28T15:59:44.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "InicioSesion.Designer.cs",
               "DocumentMoniker": "C:\\Users\\gccla\\OneDrive\\Escritorio\\ProyectoClaudia\\ProyectoClaudia\\InicioSesion.Designer.cs",
               "RelativeDocumentMoniker": "ProyectoClaudia\\InicioSesion.Designer.cs",
@@ -575,7 +586,8 @@
               "RelativeToolTip": "ProyectoClaudia\\InicioSesion.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T14:45:35.516Z"
+              "WhenOpened": "2025-05-28T14:45:35.516Z",
+              "EditorCaption": ""
             }
           ]
         }

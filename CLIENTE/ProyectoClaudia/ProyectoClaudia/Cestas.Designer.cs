@@ -91,6 +91,7 @@
             this.textBuscador.Size = new System.Drawing.Size(478, 33);
             this.textBuscador.TabIndex = 20;
             this.textBuscador.Text = "Buscador";
+            this.textBuscador.Click += new System.EventHandler(this.textBox1_Click);
             // 
             // flowLayoutPanelCesta
             // 

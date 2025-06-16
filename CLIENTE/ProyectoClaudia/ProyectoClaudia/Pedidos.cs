@@ -82,13 +82,6 @@ namespace ProyectoClaudia
                 Margin = new Padding(10)
             };
 
-            Label lblId = new Label
-            {
-                Text = $"ID Pedido: {pedido.id}",
-                Location = new Point(10, 10),
-                AutoSize = true
-            };
-
             Label lblFechaPedido = new Label
             {
                 Text = $"Fecha Pedido: {pedido.fecha_pedido.ToShortDateString()}",
@@ -123,19 +116,19 @@ namespace ProyectoClaudia
                 new DetallesPedidos(pedidoId).Show();
             };
 
-            panel.Controls.Add(lblId);
             panel.Controls.Add(lblFechaPedido);
             panel.Controls.Add(lblFechaEstimada);
             panel.Controls.Add(lblTotal);
             panel.Controls.Add(btnVerDetalles);
 
-            // ✅ Mostrar botón "Entregado" si es admin productos
+            //Mostrar botón "Entregado" si es admin productos
             if (Sesion.UsuarioActual.admin_productos == true)
             {
                 Button btnEntregar = new Button
                 {
                     Text = "Marcar como entregado",
                     Location = new Point(120, 100),
+                    Width = 180,
                     Tag = pedido.id
                 };
                 btnEntregar.Click += BtnEntregar_Click;

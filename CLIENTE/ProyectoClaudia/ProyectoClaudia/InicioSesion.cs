@@ -77,11 +77,15 @@ namespace ProyectoClaudia
                             new Catalogo().Show();
                         }
                     }
+                    else
+                    {
+                        MessageBox.Show("Contraseña incorrecta");
+                    }
 
                 }
                 else
                 {
-                    MessageBox.Show("Credenciales incorrectas.");
+                    MessageBox.Show("Usuario no encontrado");
                 }
             }
         }

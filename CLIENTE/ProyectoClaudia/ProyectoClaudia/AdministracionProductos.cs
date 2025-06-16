@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 using ProyectoClaudia.Clases;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace ProyectoClaudia
 {
@@ -80,10 +81,55 @@ namespace ProyectoClaudia
         }
         private void buttonGuardarProductos_Click(object sender, EventArgs e)
         {
+            // Validación básica de campos obligatorios
             if (string.IsNullOrWhiteSpace(textNombreProducto.Text) || string.IsNullOrWhiteSpace(textDescripcionProducto.Text) || string.IsNullOrWhiteSpace(textPrecioProducto.Text) || string.IsNullOrWhiteSpace(textStockProducto.Text) || pictureBoxProducto.Image == null || comboBoxMarca.SelectedIndex == -1)
             {
                 MessageBox.Show("Rellena los campos obligatorios");
                 return;
+            }
+
+            // Validar que stock y precio son números válidos
+            if (!decimal.TryParse(textPrecioProducto.Text.Trim(), out decimal precio))
+            {
+                MessageBox.Show("El campo precio debe ser un número válido.");
+                return;
+            }
+
+            if (!int.TryParse(textStockProducto.Text.Trim(), out int stock))
+            {
+                MessageBox.Show("El campo stock debe ser un número entero válido.");
+                return;
+            }
+
+            // Si el checkbox está marcado, el precio de oferta es obligatorio
+            if (checkBoxOfertaProducto.Checked)
+            {
+                if (string.IsNullOrWhiteSpace(textPrecioOfertaProducto.Text))
+                {
+                    MessageBox.Show("Debes ingresar un precio de oferta si marcas la opción de oferta.");
+                    return;
+                }
+
+                if (!decimal.TryParse(textPrecioOfertaProducto.Text.Trim(), out decimal precioOferta))
+                {
+                    MessageBox.Show("El campo Precio Oferta debe ser un número válido.");
+                    return;
+                }
+            }
+            else
+            {
+                // Si el campo precio oferta está rellenado (aunque el checkbox esté desmarcado)
+                if (!string.IsNullOrWhiteSpace(textPrecioOfertaProducto.Text))
+                {
+                    if (!decimal.TryParse(textPrecioOfertaProducto.Text.Trim(), out decimal _))
+                    {
+                        MessageBox.Show("El campo Precio Oferta debe ser un número válido.");
+                        return;
+                    }
+
+                    // Si hay un número válido, pero no está marcado el checkbox, lo marcamos automáticamente
+                    checkBoxOfertaProducto.Checked = true;
+                }
             }
 
             bool esModificacion = listBoxProductos.SelectedIndex >= 0 && listBoxProductos.SelectedIndex < productosCargados.Count;
@@ -354,5 +400,11 @@ namespace ProyectoClaudia
             this.Hide();
             new Pedidos().Show();   
         }
+
+        private void textBox1_Click(object sender, EventArgs e)
+        {
+            textBuscadorProductos.Clear();
+        }
+
     }
 }

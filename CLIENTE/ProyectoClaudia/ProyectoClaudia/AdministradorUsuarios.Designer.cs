@@ -114,6 +114,7 @@
             this.textBuscadorNombre.Size = new System.Drawing.Size(320, 33);
             this.textBuscadorNombre.TabIndex = 26;
             this.textBuscadorNombre.Text = "Buscador";
+            this.textBuscadorNombre.Click += new System.EventHandler(this.textBoxNombre_Click);
             // 
             // textBuscadorCorreo
             // 
@@ -124,6 +125,7 @@
             this.textBuscadorCorreo.Size = new System.Drawing.Size(320, 33);
             this.textBuscadorCorreo.TabIndex = 30;
             this.textBuscadorCorreo.Text = "Buscador";
+            this.textBuscadorCorreo.Click += new System.EventHandler(this.textBoxCorreo_Click);
             // 
             // label3
             // 
