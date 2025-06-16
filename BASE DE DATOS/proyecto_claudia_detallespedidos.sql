@@ -32,7 +32,7 @@ CREATE TABLE `detallespedidos` (
   KEY `pk_producto_idx` (`id_producto`),
   CONSTRAINT `pk_pedido` FOREIGN KEY (`id_pedido`) REFERENCES `pedidos` (`id`),
   CONSTRAINT `pk_producto` FOREIGN KEY (`id_producto`) REFERENCES `productos` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=18 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -41,7 +41,7 @@ CREATE TABLE `detallespedidos` (
 
 LOCK TABLES `detallespedidos` WRITE;
 /*!40000 ALTER TABLE `detallespedidos` DISABLE KEYS */;
-INSERT INTO `detallespedidos` VALUES (7,4,12,3),(8,4,17,1),(9,4,16,1);
+INSERT INTO `detallespedidos` VALUES (7,4,12,3),(8,4,17,1),(9,4,16,1),(10,5,17,1),(11,5,12,2),(12,6,12,2),(13,6,17,1),(14,7,12,2),(15,7,17,1),(16,8,12,2),(17,8,17,1);
 /*!40000 ALTER TABLE `detallespedidos` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -54,4 +54,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-06-12 23:01:16
+-- Dump completed on 2025-06-16 17:13:23

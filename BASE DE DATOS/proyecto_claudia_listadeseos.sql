@@ -31,7 +31,7 @@ CREATE TABLE `listadeseos` (
   KEY `idProductos_idx` (`id_producto`),
   CONSTRAINT `idProductos` FOREIGN KEY (`id_producto`) REFERENCES `productos` (`id`),
   CONSTRAINT `idUsuarios` FOREIGN KEY (`id_usuario`) REFERENCES `usuarios` (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -40,7 +40,7 @@ CREATE TABLE `listadeseos` (
 
 LOCK TABLES `listadeseos` WRITE;
 /*!40000 ALTER TABLE `listadeseos` DISABLE KEYS */;
-INSERT INTO `listadeseos` VALUES (11,41,12);
+INSERT INTO `listadeseos` VALUES (11,41,12),(12,43,12),(13,43,13),(14,43,16);
 /*!40000 ALTER TABLE `listadeseos` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -53,4 +53,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-06-12 23:01:15
+-- Dump completed on 2025-06-16 17:13:24
