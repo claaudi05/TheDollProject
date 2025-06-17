@@ -212,7 +212,9 @@ namespace ProyectoClaudia
                             var response2 = await client2.DeleteAsync(url2);
                             if (response2.IsSuccessStatusCode)
                             {
-                                BuscarEnCesta(); // Refresca la vista actual
+                                List<Cesta> cestaActualizada = obtenerCesta(Sesion.UsuarioActual.id);
+                                MostrarProductosEnCesta(cestaActualizada);
+                                CalcularTotales();
                             }
                             else
                             {
